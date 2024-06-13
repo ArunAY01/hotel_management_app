@@ -58,3 +58,5 @@ while True:
       json.dump(data,f)
     print("Thank You")
     break
+
+  print("Application ended")
