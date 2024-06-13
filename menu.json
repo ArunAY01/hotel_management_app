@@ -1,0 +1,11 @@
+{
+    "items":[
+        {"id":1,"name":"Chicken Biryani","price":200, "veg":false, "reviews":[4]},
+        {"id":2,"name":"Chicken Kabab","pricr":180,"veg":false,"reviews":[]},
+        {"id":3,"name":"Paneer Biryani","price":150,"veg":true,"reviews":[]},
+        {"id":4,"name":"Ice Cream","price":50,"veg":true,"reviews":[]},
+        {"id":5,"name":"Gulab Jamun","price":30,"veg":true,"reviews":[]},
+        {"id":6,"name":"Tea","price":20,"veg":true,"reviews":[]},
+        {"id":7,"name":"water","price":20,"veg":true,"reviews":[]}
+    ]
+}
